@@ -43,5 +43,6 @@ I'm a self-taught developer. This is my coding journey, a personal growth record
 - [playground](https://github.com/SFYLL/playground): My personal, non-exhaustive, playground for exploration.
 - [0xParc-Learning-Groups](https://github.com/SFYLL/0xParc-Learning-Groups): Taking extensive notes on 0xParc learning groups.
 - PR: [madara](https://github.com/keep-starknet-strange/madara/pull/967): Integrated Celestia as DA for the Madara client.
+- [sfyl.xyz](https://sfyl.xyz): My personal website.
 
 🔭 I am currently exploring new technologies and expanding my coding skills, and I'm excited to see where this journey will take me.

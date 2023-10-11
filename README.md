@@ -45,5 +45,6 @@ I'm a self-taught developer. This is my coding journey, a personal growth record
 - PR: [madara](https://github.com/keep-starknet-strange/madara/pull/967): Integrated Celestia as DA for the Madara client.
 - [sfyl.xyz](https://sfyl.xyz): My personal website.
 - [selective-application](https://pull.sfyl.xyz): Selectively disclose content. A pull-driven and anonymous process.
+- [nand2tetris](https://github.com/SFYLL/nand2tetris): Build a Modern Computer from First Principles: From Nand to Tetris.
 
 🔭 I am currently exploring new technologies and expanding my coding skills, and I'm excited to see where this journey will take me.

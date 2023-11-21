@@ -50,5 +50,6 @@ I'm a self-taught developer. This is my coding journey, a personal growth record
   - [`C` VM Translator](https://github.com/sfyll/nand2tetris/tree/main/projects/08/vm-translator)
   - [`Python` Compiler](https://github.com/sfyll/nand2tetris/tree/main/projects/11/JackCompiler)
   - [`Jack` OS](https://github.com/sfyll/nand2tetris/tree/main/projects/12)
+- [anon-abuse](https://github.com/orgs/anon-abuse/repositories): Middleware to trustlessly create or extend Semaphore groups.
 
 🔭 I am currently exploring new technologies and expanding my coding skills, and I'm excited to see where this journey will take me.
